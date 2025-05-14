@@ -1,31 +1,23 @@
-const fs = require("fs");
-const path = require("path");
-const { createDummyFile, logMessage } = require("./helper");
+const fs = require('fs');
+const path = require('path');
+const { getTime } = require('./helpers');
+const { processFile } = require('./fileProcessor');
+const { log } = require('./logger');
 
-const inProgressDir = path.join(__dirname, "In-Progress");
-const logFilePath = path.join(__dirname, "logs", "logs.txt");
+const PROCESSING_FOLDER = path.join(__dirname, 'Processing');
 
-// Ensure In-Progress folder exists
-if (!fs.existsSync(inProgressDir)) {
-  fs.mkdirSync(inProgressDir);
-}
-
-let count = 0;
-const maxFiles = 10;
-const intervalTime = 5000; // 5 seconds
-
-const interval = setInterval(() => {
+function createFile() {
   const timestamp = Date.now();
   const fileName = `file-${timestamp}.txt`;
-  const filePath = path.join(inProgressDir, fileName);
+  const filePath = path.join(PROCESSING_FOLDER, fileName);
 
-  createDummyFile(filePath, "This is a sample content");
-  logMessage(logFilePath, `Created new file: ${fileName}`);
-  
-  count++;
-  if (count >= maxFiles) {
-    logMessage(logFilePath, `Max limit reached. Stopping process.`);
-    clearInterval(interval);
-    console.log("Stopped after creating 10 files.");
-  }
-}, intervalTime);
+  fs.writeFileSync(filePath, `File Started Processing`);
+  log(`Created new file: ${fileName}`);
+
+  setTimeout(() => {
+    processFile(fileName);
+  }, 500); // small delay before moving to processing
+}
+
+// Create file every 3 seconds
+setInterval(createFile, 3000);

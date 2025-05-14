@@ -658,3 +658,378 @@
 [5/14/2025, 12:37:17 PM] File file-1747206436041.txt moved to Completed folder
 [5/14/2025, 12:37:17 PM] File file-1747206433041.txt moved to Completed folder
 [5/14/2025, 12:37:19 PM] Created new file: file-1747206439042.txt
+[5/14/2025, 12:37:19 PM] File file-1747206439042.txt moved to In-Progress
+[5/14/2025, 12:37:22 PM] Created new file: file-1747206442041.txt
+[5/14/2025, 12:37:22 PM] File file-1747206442041.txt moved to In-Progress
+[5/14/2025, 12:37:22 PM] WARNING: file-1747206439042.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:23 PM] File file-1747206439042.txt moved to Completed folder
+[5/14/2025, 12:37:25 PM] Created new file: file-1747206445041.txt
+[5/14/2025, 12:37:25 PM] File file-1747206445041.txt moved to In-Progress
+[5/14/2025, 12:37:25 PM] WARNING: file-1747206442041.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:27 PM] ERROR: file-1747206442041.txt crashed (processing time: 5s)
+[5/14/2025, 12:37:27 PM] File file-1747206442041.txt moved to Crashed folder
+[5/14/2025, 12:37:28 PM] Created new file: file-1747206448042.txt
+[5/14/2025, 12:37:28 PM] File file-1747206448042.txt moved to In-Progress
+[5/14/2025, 12:37:28 PM] WARNING: file-1747206445041.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:31 PM] Created new file: file-1747206451042.txt
+[5/14/2025, 12:37:31 PM] ERROR: file-1747206445041.txt crashed (processing time: 6s)
+[5/14/2025, 12:37:31 PM] File file-1747206445041.txt moved to Crashed folder
+[5/14/2025, 12:37:31 PM] File file-1747206451042.txt moved to In-Progress
+[5/14/2025, 12:37:31 PM] File file-1747206448042.txt moved to Completed folder
+[5/14/2025, 12:37:34 PM] Created new file: file-1747206454043.txt
+[5/14/2025, 12:37:34 PM] File file-1747206454043.txt moved to In-Progress
+[5/14/2025, 12:37:34 PM] WARNING: file-1747206451042.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:35 PM] File file-1747206451042.txt moved to Completed folder
+[5/14/2025, 12:37:37 PM] Created new file: file-1747206457043.txt
+[5/14/2025, 12:37:37 PM] File file-1747206457043.txt moved to In-Progress
+[5/14/2025, 12:37:37 PM] WARNING: file-1747206454043.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:39 PM] ERROR: file-1747206454043.txt crashed (processing time: 5s)
+[5/14/2025, 12:37:39 PM] File file-1747206454043.txt moved to Crashed folder
+[5/14/2025, 12:37:40 PM] Created new file: file-1747206460043.txt
+[5/14/2025, 12:37:40 PM] File file-1747206460043.txt moved to In-Progress
+[5/14/2025, 12:37:40 PM] File file-1747206457043.txt moved to Completed folder
+[5/14/2025, 12:47:01 PM] Created new file: file-1747207021564.txt
+[5/14/2025, 12:47:06 PM] Created new file: file-1747207026564.txt
+[5/14/2025, 12:47:11 PM] Created new file: file-1747207031564.txt
+[5/14/2025, 12:47:16 PM] Created new file: file-1747207036565.txt
+[5/14/2025, 12:47:21 PM] Created new file: file-1747207041566.txt
+[5/14/2025, 12:47:26 PM] Created new file: file-1747207046567.txt
+[5/14/2025, 12:47:31 PM] Created new file: file-1747207051570.txt
+[5/14/2025, 12:47:36 PM] Created new file: file-1747207056569.txt
+[5/14/2025, 12:47:41 PM] Created new file: file-1747207061571.txt
+[5/14/2025, 12:47:46 PM] Created new file: file-1747207066571.txt
+[5/14/2025, 12:47:46 PM] Max limit reached. Stopping process.
+[5/14/2025, 12:50:39 PM] Created new file: file-1747207239180.txt
+[5/14/2025, 12:50:44 PM] Created new file: file-1747207244180.txt
+[5/14/2025, 12:50:49 PM] Created new file: file-1747207249180.txt
+[5/14/2025, 12:50:54 PM] Created new file: file-1747207254180.txt
+[5/14/2025, 12:50:59 PM] Created new file: file-1747207259180.txt
+[5/14/2025, 12:51:04 PM] Created new file: file-1747207264180.txt
+[5/14/2025, 12:51:09 PM] Created new file: file-1747207269180.txt
+[5/14/2025, 12:51:14 PM] Created new file: file-1747207274181.txt
+[5/14/2025, 12:51:19 PM] Created new file: file-1747207279182.txt
+[5/14/2025, 12:51:24 PM] Created new file: file-1747207284182.txt
+[5/14/2025, 12:51:24 PM] Max limit reached. Stopping process.
+[2025-05-14T07:29:20.094Z] [INFO] file_1747207760094.txt - File Started Processing
+[2025-05-14T07:29:20.105Z] [INFO] file_1747207760094.txt - In-Progress
+[2025-05-14T07:29:23.106Z] [WARNING] file_1747207760094.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:23.106Z] [INFO] file_1747207763106.txt - File Started Processing
+[2025-05-14T07:29:23.107Z] [INFO] file_1747207763106.txt - In-Progress
+[2025-05-14T07:29:25.107Z] [ERROR] file_1747207760094.txt - Final-Status: Crashed
+[2025-05-14T07:29:26.109Z] [WARNING] file_1747207763106.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:26.110Z] [INFO] file_1747207766109.txt - File Started Processing
+[2025-05-14T07:29:26.110Z] [INFO] file_1747207766109.txt - In-Progress
+[2025-05-14T07:29:29.109Z] [ERROR] file_1747207763106.txt - Final-Status: Crashed
+[2025-05-14T07:29:29.111Z] [WARNING] file_1747207766109.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:29.112Z] [INFO] file_1747207769111.txt - File Started Processing
+[2025-05-14T07:29:29.112Z] [INFO] file_1747207769111.txt - In-Progress
+[2025-05-14T07:29:31.111Z] [ERROR] file_1747207766109.txt - Final-Status: Crashed
+[2025-05-14T07:29:32.113Z] [WARNING] file_1747207769111.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:32.114Z] [INFO] file_1747207772113.txt - File Started Processing
+[2025-05-14T07:29:32.114Z] [INFO] file_1747207772113.txt - In-Progress
+[2025-05-14T07:29:33.114Z] [INFO] file_1747207769111.txt - Final-Status: Completed
+[2025-05-14T07:29:34.114Z] [INFO] file_1747207772113.txt - Final-Status: Completed
+[2025-05-14T07:29:35.116Z] [WARNING] file_1747207772113.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:35.116Z] [INFO] file_1747207775116.txt - File Started Processing
+[2025-05-14T07:29:35.117Z] [INFO] file_1747207775116.txt - In-Progress
+[2025-05-14T07:29:37.117Z] [INFO] file_1747207775116.txt - Final-Status: Completed
+[2025-05-14T07:29:38.117Z] [WARNING] file_1747207775116.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:38.118Z] [INFO] file_1747207778118.txt - File Started Processing
+[2025-05-14T07:29:38.118Z] [INFO] file_1747207778118.txt - In-Progress
+[2025-05-14T07:29:41.119Z] [WARNING] file_1747207778118.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:41.119Z] [INFO] file_1747207781119.txt - File Started Processing
+[2025-05-14T07:29:41.120Z] [INFO] file_1747207781119.txt - In-Progress
+[2025-05-14T07:29:42.119Z] [INFO] file_1747207778118.txt - Final-Status: Completed
+[2025-05-14T07:29:44.120Z] [WARNING] file_1747207781119.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:44.121Z] [INFO] file_1747207784120.txt - File Started Processing
+[2025-05-14T07:29:44.121Z] [INFO] file_1747207784120.txt - In-Progress
+[2025-05-14T07:29:45.122Z] [INFO] file_1747207784120.txt - Final-Status: Completed
+[2025-05-14T07:29:47.121Z] [ERROR] file_1747207781119.txt - Final-Status: Crashed
+[2025-05-14T07:29:47.122Z] [WARNING] file_1747207784120.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:47.123Z] [INFO] file_1747207787123.txt - File Started Processing
+[2025-05-14T07:29:47.124Z] [INFO] file_1747207787123.txt - In-Progress
+[2025-05-14T07:29:50.125Z] [WARNING] file_1747207787123.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:50.125Z] [INFO] file_1747207790125.txt - File Started Processing
+[2025-05-14T07:29:50.126Z] [INFO] file_1747207790125.txt - In-Progress
+[2025-05-14T07:29:51.125Z] [INFO] file_1747207787123.txt - Final-Status: Completed
+[2025-05-14T07:29:53.126Z] [WARNING] file_1747207790125.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:53.127Z] [INFO] file_1747207793127.txt - File Started Processing
+[2025-05-14T07:29:53.127Z] [INFO] file_1747207793127.txt - In-Progress
+[2025-05-14T07:29:55.126Z] [ERROR] file_1747207790125.txt - Final-Status: Crashed
+[2025-05-14T07:29:55.128Z] [INFO] file_1747207793127.txt - Final-Status: Completed
+[2025-05-14T07:29:56.128Z] [WARNING] file_1747207793127.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:56.129Z] [INFO] file_1747207796128.txt - File Started Processing
+[2025-05-14T07:29:56.131Z] [INFO] file_1747207796128.txt - In-Progress
+[2025-05-14T07:29:57.131Z] [INFO] file_1747207796128.txt - Final-Status: Completed
+[2025-05-14T07:29:59.132Z] [WARNING] file_1747207796128.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:29:59.132Z] [INFO] file_1747207799132.txt - File Started Processing
+[2025-05-14T07:29:59.133Z] [INFO] file_1747207799132.txt - In-Progress
+[2025-05-14T07:30:02.133Z] [WARNING] file_1747207799132.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:02.134Z] [INFO] file_1747207799132.txt - Final-Status: Completed
+[2025-05-14T07:30:02.134Z] [INFO] file_1747207802134.txt - File Started Processing
+[2025-05-14T07:30:02.135Z] [INFO] file_1747207802134.txt - In-Progress
+[2025-05-14T07:30:04.136Z] [INFO] file_1747207802134.txt - Final-Status: Completed
+[2025-05-14T07:30:05.136Z] [WARNING] file_1747207802134.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:05.136Z] [INFO] file_1747207805136.txt - File Started Processing
+[2025-05-14T07:30:05.136Z] [INFO] file_1747207805136.txt - In-Progress
+[2025-05-14T07:30:08.137Z] [WARNING] file_1747207805136.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:08.137Z] [INFO] file_1747207805136.txt - Final-Status: Completed
+[2025-05-14T07:30:08.138Z] [INFO] file_1747207808138.txt - File Started Processing
+[2025-05-14T07:30:08.138Z] [INFO] file_1747207808138.txt - In-Progress
+[2025-05-14T07:30:11.139Z] [WARNING] file_1747207808138.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:11.139Z] [INFO] file_1747207808138.txt - Final-Status: Completed
+[2025-05-14T07:30:11.140Z] [INFO] file_1747207811139.txt - File Started Processing
+[2025-05-14T07:30:11.140Z] [INFO] file_1747207811139.txt - In-Progress
+[2025-05-14T07:30:12.141Z] [INFO] file_1747207811139.txt - Final-Status: Completed
+[2025-05-14T07:30:14.141Z] [WARNING] file_1747207811139.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:14.141Z] [INFO] file_1747207814141.txt - File Started Processing
+[2025-05-14T07:30:14.142Z] [INFO] file_1747207814141.txt - In-Progress
+[2025-05-14T07:30:16.143Z] [INFO] file_1747207814141.txt - Final-Status: Completed
+[2025-05-14T07:30:17.144Z] [WARNING] file_1747207814141.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:17.144Z] [INFO] file_1747207817144.txt - File Started Processing
+[2025-05-14T07:30:17.144Z] [INFO] file_1747207817144.txt - In-Progress
+[2025-05-14T07:30:19.146Z] [INFO] file_1747207817144.txt - Final-Status: Completed
+[2025-05-14T07:30:20.146Z] [WARNING] file_1747207817144.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:20.146Z] [INFO] file_1747207820146.txt - File Started Processing
+[2025-05-14T07:30:20.147Z] [INFO] file_1747207820146.txt - In-Progress
+[2025-05-14T07:30:23.147Z] [WARNING] file_1747207820146.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:23.148Z] [INFO] file_1747207823147.txt - File Started Processing
+[2025-05-14T07:30:23.148Z] [INFO] file_1747207823147.txt - In-Progress
+[2025-05-14T07:30:24.147Z] [INFO] file_1747207820146.txt - Final-Status: Completed
+[2025-05-14T07:30:26.148Z] [WARNING] file_1747207823147.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:26.149Z] [INFO] file_1747207826149.txt - File Started Processing
+[2025-05-14T07:30:26.149Z] [INFO] file_1747207826149.txt - In-Progress
+[2025-05-14T07:30:27.149Z] [INFO] file_1747207823147.txt - Final-Status: Completed
+[2025-05-14T07:30:29.150Z] [WARNING] file_1747207826149.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:29.150Z] [INFO] file_1747207829150.txt - File Started Processing
+[2025-05-14T07:30:29.150Z] [INFO] file_1747207829150.txt - In-Progress
+[2025-05-14T07:30:30.150Z] [INFO] file_1747207826149.txt - Final-Status: Completed
+[2025-05-14T07:30:32.151Z] [WARNING] file_1747207829150.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:32.152Z] [INFO] file_1747207832152.txt - File Started Processing
+[2025-05-14T07:30:32.152Z] [INFO] file_1747207832152.txt - In-Progress
+[2025-05-14T07:30:35.151Z] [ERROR] file_1747207829150.txt - Final-Status: Crashed
+[2025-05-14T07:30:35.153Z] [WARNING] file_1747207832152.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:35.153Z] [INFO] file_1747207835153.txt - File Started Processing
+[2025-05-14T07:30:35.153Z] [INFO] file_1747207835153.txt - In-Progress
+[2025-05-14T07:30:37.154Z] [ERROR] file_1747207832152.txt - Final-Status: Crashed
+[2025-05-14T07:30:38.154Z] [WARNING] file_1747207835153.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:38.154Z] [INFO] file_1747207835153.txt - Final-Status: Completed
+[2025-05-14T07:30:38.154Z] [INFO] file_1747207838154.txt - File Started Processing
+[2025-05-14T07:30:38.155Z] [INFO] file_1747207838154.txt - In-Progress
+[2025-05-14T07:30:41.156Z] [WARNING] file_1747207838154.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:41.156Z] [INFO] file_1747207841156.txt - File Started Processing
+[2025-05-14T07:30:41.156Z] [INFO] file_1747207841156.txt - In-Progress
+[2025-05-14T07:30:44.155Z] [ERROR] file_1747207838154.txt - Final-Status: Crashed
+[2025-05-14T07:30:44.157Z] [WARNING] file_1747207841156.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:44.158Z] [INFO] file_1747207844157.txt - File Started Processing
+[2025-05-14T07:30:44.158Z] [INFO] file_1747207844157.txt - In-Progress
+[2025-05-14T07:30:47.158Z] [ERROR] file_1747207841156.txt - Final-Status: Crashed
+[2025-05-14T07:30:47.158Z] [WARNING] file_1747207844157.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:47.158Z] [INFO] file_1747207847158.txt - File Started Processing
+[2025-05-14T07:30:47.159Z] [INFO] file_1747207847158.txt - In-Progress
+[2025-05-14T07:30:49.159Z] [ERROR] file_1747207844157.txt - Final-Status: Crashed
+[2025-05-14T07:30:50.160Z] [WARNING] file_1747207847158.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:50.160Z] [INFO] file_1747207850160.txt - File Started Processing
+[2025-05-14T07:30:50.160Z] [INFO] file_1747207850160.txt - In-Progress
+[2025-05-14T07:30:53.160Z] [ERROR] file_1747207847158.txt - Final-Status: Crashed
+[2025-05-14T07:30:53.161Z] [WARNING] file_1747207850160.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:53.162Z] [INFO] file_1747207853161.txt - File Started Processing
+[2025-05-14T07:30:53.162Z] [INFO] file_1747207853161.txt - In-Progress
+[2025-05-14T07:30:54.162Z] [INFO] file_1747207850160.txt - Final-Status: Completed
+[2025-05-14T07:30:56.163Z] [WARNING] file_1747207853161.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:56.163Z] [INFO] file_1747207853161.txt - Final-Status: Completed
+[2025-05-14T07:30:56.164Z] [INFO] file_1747207856164.txt - File Started Processing
+[2025-05-14T07:30:56.164Z] [INFO] file_1747207856164.txt - In-Progress
+[2025-05-14T07:30:59.165Z] [WARNING] file_1747207856164.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:30:59.165Z] [INFO] file_1747207859165.txt - File Started Processing
+[2025-05-14T07:30:59.166Z] [INFO] file_1747207859165.txt - In-Progress
+[2025-05-14T07:31:02.165Z] [ERROR] file_1747207856164.txt - Final-Status: Crashed
+[2025-05-14T07:31:02.166Z] [WARNING] file_1747207859165.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:02.166Z] [INFO] file_1747207862166.txt - File Started Processing
+[2025-05-14T07:31:02.166Z] [INFO] file_1747207862166.txt - In-Progress
+[2025-05-14T07:31:04.168Z] [INFO] file_1747207862166.txt - Final-Status: Completed
+[2025-05-14T07:31:05.169Z] [ERROR] file_1747207859165.txt - Final-Status: Crashed
+[2025-05-14T07:31:05.170Z] [WARNING] file_1747207862166.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:05.170Z] [INFO] file_1747207865170.txt - File Started Processing
+[2025-05-14T07:31:05.171Z] [INFO] file_1747207865170.txt - In-Progress
+[2025-05-14T07:31:07.172Z] [INFO] file_1747207865170.txt - Final-Status: Completed
+[2025-05-14T07:31:08.171Z] [WARNING] file_1747207865170.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:08.172Z] [INFO] file_1747207868171.txt - File Started Processing
+[2025-05-14T07:31:08.172Z] [INFO] file_1747207868171.txt - In-Progress
+[2025-05-14T07:31:11.173Z] [WARNING] file_1747207868171.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:11.174Z] [INFO] file_1747207871173.txt - File Started Processing
+[2025-05-14T07:31:11.174Z] [INFO] file_1747207871173.txt - In-Progress
+[2025-05-14T07:31:12.173Z] [INFO] file_1747207868171.txt - Final-Status: Completed
+[2025-05-14T07:31:14.175Z] [WARNING] file_1747207871173.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:14.176Z] [INFO] file_1747207871173.txt - Final-Status: Completed
+[2025-05-14T07:31:14.176Z] [INFO] file_1747207874176.txt - File Started Processing
+[2025-05-14T07:31:14.177Z] [INFO] file_1747207874176.txt - In-Progress
+[2025-05-14T07:31:17.177Z] [WARNING] file_1747207874176.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:17.178Z] [INFO] file_1747207877177.txt - File Started Processing
+[2025-05-14T07:31:17.178Z] [INFO] file_1747207877177.txt - In-Progress
+[2025-05-14T07:31:20.177Z] [ERROR] file_1747207874176.txt - Final-Status: Crashed
+[2025-05-14T07:31:20.178Z] [WARNING] file_1747207877177.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:20.179Z] [INFO] file_1747207880179.txt - File Started Processing
+[2025-05-14T07:31:20.179Z] [INFO] file_1747207880179.txt - In-Progress
+[2025-05-14T07:31:22.179Z] [ERROR] file_1747207877177.txt - Final-Status: Crashed
+[2025-05-14T07:31:23.180Z] [WARNING] file_1747207880179.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:23.180Z] [INFO] file_1747207880179.txt - Final-Status: Completed
+[2025-05-14T07:31:23.181Z] [INFO] file_1747207883181.txt - File Started Processing
+[2025-05-14T07:31:23.187Z] [INFO] file_1747207883181.txt - In-Progress
+[2025-05-14T07:31:26.189Z] [WARNING] file_1747207883181.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:26.190Z] [INFO] file_1747207883181.txt - Final-Status: Completed
+[2025-05-14T07:31:26.190Z] [INFO] file_1747207886190.txt - File Started Processing
+[2025-05-14T07:31:26.191Z] [INFO] file_1747207886190.txt - In-Progress
+[2025-05-14T07:31:29.191Z] [WARNING] file_1747207886190.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:29.192Z] [INFO] file_1747207886190.txt - Final-Status: Completed
+[2025-05-14T07:31:29.193Z] [INFO] file_1747207889193.txt - File Started Processing
+[2025-05-14T07:31:29.193Z] [INFO] file_1747207889193.txt - In-Progress
+[2025-05-14T07:31:31.194Z] [INFO] file_1747207889193.txt - Final-Status: Completed
+[2025-05-14T07:31:32.193Z] [WARNING] file_1747207889193.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:32.194Z] [INFO] file_1747207892194.txt - File Started Processing
+[2025-05-14T07:31:32.194Z] [INFO] file_1747207892194.txt - In-Progress
+[2025-05-14T07:31:35.195Z] [WARNING] file_1747207892194.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:35.196Z] [INFO] file_1747207895195.txt - File Started Processing
+[2025-05-14T07:31:35.196Z] [INFO] file_1747207895195.txt - In-Progress
+[2025-05-14T07:31:37.195Z] [ERROR] file_1747207892194.txt - Final-Status: Crashed
+[2025-05-14T07:31:37.197Z] [INFO] file_1747207895195.txt - Final-Status: Completed
+[2025-05-14T07:31:38.197Z] [WARNING] file_1747207895195.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:38.197Z] [INFO] file_1747207898197.txt - File Started Processing
+[2025-05-14T07:31:38.198Z] [INFO] file_1747207898197.txt - In-Progress
+[2025-05-14T07:31:41.282Z] [WARNING] file_1747207898197.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:41.282Z] [INFO] file_1747207901282.txt - File Started Processing
+[2025-05-14T07:31:41.283Z] [INFO] file_1747207901282.txt - In-Progress
+[2025-05-14T07:31:42.283Z] [INFO] file_1747207898197.txt - Final-Status: Completed
+[2025-05-14T07:31:44.284Z] [WARNING] file_1747207901282.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:44.284Z] [INFO] file_1747207904284.txt - File Started Processing
+[2025-05-14T07:31:44.284Z] [INFO] file_1747207904284.txt - In-Progress
+[2025-05-14T07:31:46.284Z] [ERROR] file_1747207901282.txt - Final-Status: Crashed
+[2025-05-14T07:31:47.285Z] [WARNING] file_1747207904284.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:47.285Z] [INFO] file_1747207907285.txt - File Started Processing
+[2025-05-14T07:31:47.285Z] [INFO] file_1747207907285.txt - In-Progress
+[2025-05-14T07:31:48.286Z] [INFO] file_1747207904284.txt - Final-Status: Completed
+[2025-05-14T07:31:50.286Z] [WARNING] file_1747207907285.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:50.287Z] [INFO] file_1747207907285.txt - Final-Status: Completed
+[2025-05-14T07:31:50.288Z] [INFO] file_1747207910288.txt - File Started Processing
+[2025-05-14T07:31:50.289Z] [INFO] file_1747207910288.txt - In-Progress
+[2025-05-14T07:31:51.289Z] [INFO] file_1747207910288.txt - Final-Status: Completed
+[2025-05-14T07:31:53.290Z] [WARNING] file_1747207910288.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:53.290Z] [INFO] file_1747207913290.txt - File Started Processing
+[2025-05-14T07:31:53.291Z] [INFO] file_1747207913290.txt - In-Progress
+[2025-05-14T07:31:56.292Z] [WARNING] file_1747207913290.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:56.292Z] [INFO] file_1747207913290.txt - Final-Status: Completed
+[2025-05-14T07:31:56.293Z] [INFO] file_1747207916293.txt - File Started Processing
+[2025-05-14T07:31:56.293Z] [INFO] file_1747207916293.txt - In-Progress
+[2025-05-14T07:31:59.295Z] [WARNING] file_1747207916293.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:31:59.295Z] [INFO] file_1747207919295.txt - File Started Processing
+[2025-05-14T07:31:59.296Z] [INFO] file_1747207919295.txt - In-Progress
+[2025-05-14T07:32:02.295Z] [ERROR] file_1747207916293.txt - Final-Status: Crashed
+[2025-05-14T07:32:02.296Z] [WARNING] file_1747207919295.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:02.296Z] [INFO] file_1747207919295.txt - Final-Status: Completed
+[2025-05-14T07:32:02.296Z] [INFO] file_1747207922296.txt - File Started Processing
+[2025-05-14T07:32:02.297Z] [INFO] file_1747207922296.txt - In-Progress
+[2025-05-14T07:32:05.297Z] [WARNING] file_1747207922296.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:05.298Z] [INFO] file_1747207925298.txt - File Started Processing
+[2025-05-14T07:32:05.299Z] [INFO] file_1747207925298.txt - In-Progress
+[2025-05-14T07:32:07.298Z] [ERROR] file_1747207922296.txt - Final-Status: Crashed
+[2025-05-14T07:32:08.299Z] [WARNING] file_1747207925298.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:08.300Z] [INFO] file_1747207925298.txt - Final-Status: Completed
+[2025-05-14T07:32:08.300Z] [INFO] file_1747207928300.txt - File Started Processing
+[2025-05-14T07:32:08.301Z] [INFO] file_1747207928300.txt - In-Progress
+[2025-05-14T07:32:11.301Z] [WARNING] file_1747207928300.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:11.302Z] [INFO] file_1747207931301.txt - File Started Processing
+[2025-05-14T07:32:11.302Z] [INFO] file_1747207931301.txt - In-Progress
+[2025-05-14T07:32:12.303Z] [INFO] file_1747207931301.txt - Final-Status: Completed
+[2025-05-14T07:32:14.302Z] [ERROR] file_1747207928300.txt - Final-Status: Crashed
+[2025-05-14T07:32:14.302Z] [WARNING] file_1747207931301.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:14.303Z] [INFO] file_1747207934302.txt - File Started Processing
+[2025-05-14T07:32:14.304Z] [INFO] file_1747207934302.txt - In-Progress
+[2025-05-14T07:32:16.304Z] [INFO] file_1747207934302.txt - Final-Status: Completed
+[2025-05-14T07:32:17.304Z] [WARNING] file_1747207934302.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:17.304Z] [INFO] file_1747207937304.txt - File Started Processing
+[2025-05-14T07:32:17.305Z] [INFO] file_1747207937304.txt - In-Progress
+[2025-05-14T07:32:20.306Z] [WARNING] file_1747207937304.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:20.307Z] [INFO] file_1747207940306.txt - File Started Processing
+[2025-05-14T07:32:20.307Z] [INFO] file_1747207940306.txt - In-Progress
+[2025-05-14T07:32:21.306Z] [INFO] file_1747207937304.txt - Final-Status: Completed
+[2025-05-14T07:32:23.307Z] [WARNING] file_1747207940306.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:23.307Z] [INFO] file_1747207943307.txt - File Started Processing
+[2025-05-14T07:32:23.308Z] [INFO] file_1747207943307.txt - In-Progress
+[2025-05-14T07:32:24.309Z] [INFO] file_1747207943307.txt - Final-Status: Completed
+[2025-05-14T07:32:26.308Z] [ERROR] file_1747207940306.txt - Final-Status: Crashed
+[2025-05-14T07:32:26.308Z] [WARNING] file_1747207943307.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:26.309Z] [INFO] file_1747207946308.txt - File Started Processing
+[2025-05-14T07:32:26.309Z] [INFO] file_1747207946308.txt - In-Progress
+[2025-05-14T07:32:29.310Z] [WARNING] file_1747207946308.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:29.310Z] [INFO] file_1747207949310.txt - File Started Processing
+[2025-05-14T07:32:29.311Z] [INFO] file_1747207949310.txt - In-Progress
+[2025-05-14T07:32:30.312Z] [INFO] file_1747207949310.txt - Final-Status: Completed
+[2025-05-14T07:32:31.310Z] [ERROR] file_1747207946308.txt - Final-Status: Crashed
+[2025-05-14T07:32:32.312Z] [WARNING] file_1747207949310.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:32.312Z] [INFO] file_1747207952312.txt - File Started Processing
+[2025-05-14T07:32:32.313Z] [INFO] file_1747207952312.txt - In-Progress
+[2025-05-14T07:32:33.313Z] [INFO] file_1747207952312.txt - Final-Status: Completed
+[2025-05-14T07:32:35.313Z] [WARNING] file_1747207952312.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:35.313Z] [INFO] file_1747207955313.txt - File Started Processing
+[2025-05-14T07:32:35.314Z] [INFO] file_1747207955313.txt - In-Progress
+[2025-05-14T07:32:38.314Z] [WARNING] file_1747207955313.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:38.314Z] [INFO] file_1747207955313.txt - Final-Status: Completed
+[2025-05-14T07:32:38.315Z] [INFO] file_1747207958314.txt - File Started Processing
+[2025-05-14T07:32:38.315Z] [INFO] file_1747207958314.txt - In-Progress
+[5/14/2025, 1:02:39 PM] Created new file: file-1747207959513.txt
+[5/14/2025, 1:02:40 PM] File file-1747207959513.txt moved to In-Progress
+[2025-05-14T07:32:41.316Z] [WARNING] file_1747207958314.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:41.316Z] [INFO] file_1747207961316.txt - File Started Processing
+[2025-05-14T07:32:41.317Z] [INFO] file_1747207961316.txt - In-Progress
+[5/14/2025, 1:02:42 PM] Created new file: file-1747207962513.txt
+[5/14/2025, 1:02:43 PM] File file-1747207962513.txt moved to In-Progress
+[5/14/2025, 1:02:43 PM] WARNING: file-1747207959513.txt is still in progress after 3 seconds
+[2025-05-14T07:32:43.317Z] [ERROR] file_1747207958314.txt - Final-Status: Crashed
+[2025-05-14T07:32:44.317Z] [WARNING] file_1747207961316.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:44.317Z] [INFO] file_1747207964317.txt - File Started Processing
+[2025-05-14T07:32:44.318Z] [INFO] file_1747207964317.txt - In-Progress
+[2025-05-14T07:32:45.318Z] [INFO] file_1747207961316.txt - Final-Status: Completed
+[5/14/2025, 1:02:45 PM] Created new file: file-1747207965515.txt
+[5/14/2025, 1:02:46 PM] File file-1747207965515.txt moved to In-Progress
+[5/14/2025, 1:02:46 PM] WARNING: file-1747207962513.txt is still in progress after 3 seconds
+[5/14/2025, 1:02:46 PM] ERROR: file-1747207959513.txt crashed (processing time: 6s)
+[5/14/2025, 1:02:46 PM] File file-1747207959513.txt moved to Crashed folder
+[2025-05-14T07:32:47.318Z] [WARNING] file_1747207964317.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:47.319Z] [INFO] file_1747207967319.txt - File Started Processing
+[2025-05-14T07:32:47.319Z] [INFO] file_1747207967319.txt - In-Progress
+[5/14/2025, 1:02:48 PM] File file-1747207965515.txt moved to Completed folder
+[5/14/2025, 1:02:48 PM] Created new file: file-1747207968514.txt
+[5/14/2025, 1:02:49 PM] File file-1747207968514.txt moved to In-Progress
+[5/14/2025, 1:02:49 PM] ERROR: file-1747207962513.txt crashed (processing time: 6s)
+[5/14/2025, 1:02:49 PM] File file-1747207962513.txt moved to Crashed folder
+[2025-05-14T07:32:50.319Z] [ERROR] file_1747207964317.txt - Final-Status: Crashed
+[2025-05-14T07:32:50.320Z] [WARNING] file_1747207967319.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:50.320Z] [INFO] file_1747207970320.txt - File Started Processing
+[2025-05-14T07:32:50.320Z] [INFO] file_1747207970320.txt - In-Progress
+[5/14/2025, 1:02:51 PM] Created new file: file-1747207971516.txt
+[5/14/2025, 1:02:52 PM] File file-1747207971516.txt moved to In-Progress
+[5/14/2025, 1:02:52 PM] WARNING: file-1747207968514.txt is still in progress after 3 seconds
+[2025-05-14T07:32:52.320Z] [ERROR] file_1747207967319.txt - Final-Status: Crashed
+[5/14/2025, 1:02:53 PM] File file-1747207968514.txt moved to Completed folder
+[2025-05-14T07:32:53.320Z] [WARNING] file_1747207970320.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:53.321Z] [INFO] file_1747207973321.txt - File Started Processing
+[2025-05-14T07:32:53.321Z] [INFO] file_1747207973321.txt - In-Progress
+[5/14/2025, 1:02:54 PM] Created new file: file-1747207974516.txt
+[5/14/2025, 1:02:55 PM] File file-1747207974516.txt moved to In-Progress
+[5/14/2025, 1:02:55 PM] WARNING: file-1747207971516.txt is still in progress after 3 seconds
+[5/14/2025, 1:02:56 PM] File file-1747207971516.txt moved to Completed folder
+[2025-05-14T07:32:56.322Z] [ERROR] file_1747207970320.txt - Final-Status: Crashed
+[2025-05-14T07:32:56.322Z] [WARNING] file_1747207973321.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:56.323Z] [INFO] file_1747207976322.txt - File Started Processing
+[2025-05-14T07:32:56.323Z] [INFO] file_1747207976322.txt - In-Progress
+[5/14/2025, 1:02:57 PM] Created new file: file-1747207977517.txt
+[5/14/2025, 1:02:58 PM] File file-1747207977517.txt moved to In-Progress
+[5/14/2025, 1:02:58 PM] File file-1747207974516.txt moved to Completed folder
+[2025-05-14T07:32:58.324Z] [ERROR] file_1747207973321.txt - Final-Status: Crashed
+[2025-05-14T07:32:59.324Z] [WARNING] file_1747207976322.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:32:59.325Z] [INFO] file_1747207979324.txt - File Started Processing
+[2025-05-14T07:32:59.325Z] [INFO] file_1747207979324.txt - In-Progress
+[2025-05-14T07:33:00.323Z] [INFO] file_1747207976322.txt - Final-Status: Completed
+[5/14/2025, 1:03:00 PM] Created new file: file-1747207980517.txt
+[5/14/2025, 1:03:01 PM] File file-1747207980517.txt moved to In-Progress
+[5/14/2025, 1:03:01 PM] WARNING: file-1747207977517.txt is still in progress after 3 seconds

@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { generateRandomSeconds, getTime } = require('./helper');
+const { generateRandomSeconds, getTime } = require('./helpers');
 const { log } = require('./logger');
 
 function processFile(fileName) {
