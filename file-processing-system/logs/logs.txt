@@ -1033,3 +1033,41 @@
 [5/14/2025, 1:03:00 PM] Created new file: file-1747207980517.txt
 [5/14/2025, 1:03:01 PM] File file-1747207980517.txt moved to In-Progress
 [5/14/2025, 1:03:01 PM] WARNING: file-1747207977517.txt is still in progress after 3 seconds
+[2025-05-14T07:33:02.325Z] [WARNING] file_1747207979324.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:33:02.326Z] [INFO] file_1747207982326.txt - File Started Processing
+[2025-05-14T07:33:02.326Z] [INFO] file_1747207982326.txt - In-Progress
+[5/14/2025, 1:03:03 PM] ERROR: file-1747207977517.txt crashed (processing time: 5s)
+[5/14/2025, 1:03:03 PM] File file-1747207977517.txt moved to Crashed folder
+[5/14/2025, 1:03:03 PM] File file-1747207980517.txt moved to Completed folder
+[2025-05-14T07:33:03.328Z] [INFO] file_1747207982326.txt - Final-Status: Completed
+[5/14/2025, 1:03:03 PM] Created new file: file-1747207983519.txt
+[5/14/2025, 1:03:04 PM] File file-1747207983519.txt moved to In-Progress
+[5/14/2025, 1:03:05 PM] File file-1747207983519.txt moved to Completed folder
+[2025-05-14T07:33:05.326Z] [ERROR] file_1747207979324.txt - Final-Status: Crashed
+[2025-05-14T07:33:05.327Z] [WARNING] file_1747207982326.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:33:05.327Z] [INFO] file_1747207985327.txt - File Started Processing
+[2025-05-14T07:33:05.328Z] [INFO] file_1747207985327.txt - In-Progress
+[2025-05-14T07:33:06.329Z] [INFO] file_1747207985327.txt - Final-Status: Completed
+[5/14/2025, 1:03:06 PM] Created new file: file-1747207986519.txt
+[5/14/2025, 1:03:07 PM] File file-1747207986519.txt moved to In-Progress
+[2025-05-14T07:33:08.328Z] [WARNING] file_1747207985327.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:33:08.329Z] [INFO] file_1747207988328.txt - File Started Processing
+[2025-05-14T07:33:08.329Z] [INFO] file_1747207988328.txt - In-Progress
+[5/14/2025, 1:03:09 PM] Created new file: file-1747207989519.txt
+[5/14/2025, 1:03:10 PM] File file-1747207989519.txt moved to In-Progress
+[5/14/2025, 1:03:10 PM] WARNING: file-1747207986519.txt is still in progress after 3 seconds
+[5/14/2025, 1:03:11 PM] File file-1747207986519.txt moved to Completed folder
+[5/14/2025, 1:03:11 PM] File file-1747207989519.txt moved to Completed folder
+[2025-05-14T07:33:11.329Z] [WARNING] file_1747207988328.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:33:11.330Z] [INFO] file_1747207988328.txt - Final-Status: Completed
+[2025-05-14T07:33:11.330Z] [INFO] file_1747207991330.txt - File Started Processing
+[2025-05-14T07:33:11.331Z] [INFO] file_1747207991330.txt - In-Progress
+[2025-05-14T07:33:12.363Z] [INFO] file_1747207991330.txt - Final-Status: Completed
+[5/14/2025, 1:03:12 PM] Created new file: file-1747207992520.txt
+[5/14/2025, 1:03:13 PM] File file-1747207992520.txt moved to In-Progress
+[5/14/2025, 1:03:14 PM] File file-1747207992520.txt moved to Completed folder
+[2025-05-14T07:33:14.331Z] [WARNING] file_1747207991330.txt - Still In-Progress after 3 seconds
+[2025-05-14T07:33:14.332Z] [INFO] file_1747207994332.txt - File Started Processing
+[2025-05-14T07:33:14.332Z] [INFO] file_1747207994332.txt - In-Progress
+[5/14/2025, 1:03:15 PM] Created new file: file-1747207995521.txt
+[5/14/2025, 1:03:16 PM] File file-1747207995521.txt moved to In-Progress
