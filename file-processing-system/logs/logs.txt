@@ -1,0 +1,660 @@
+[5/14/2025, 12:29:06 PM] Created new file: file-1747205946928.txt
+[5/14/2025, 12:29:07 PM] File file-1747205946928.txt moved to In-Progress
+[5/14/2025, 12:29:09 PM] Created new file: file-1747205949929.txt
+[5/14/2025, 12:29:10 PM] File file-1747205949929.txt moved to In-Progress
+[5/14/2025, 12:29:10 PM] WARNING: file-1747205946928.txt is still in progress after 3 seconds
+[5/14/2025, 12:29:12 PM] File file-1747205949929.txt moved to Completed folder
+[5/14/2025, 12:29:12 PM] Created new file: file-1747205952930.txt
+[5/14/2025, 12:29:13 PM] File file-1747205952930.txt moved to In-Progress
+[5/14/2025, 12:29:13 PM] ERROR: file-1747205946928.txt crashed (processing time: 6s)
+[5/14/2025, 12:29:13 PM] File file-1747205946928.txt moved to Crashed folder
+[5/14/2025, 12:29:15 PM] Created new file: file-1747205955932.txt
+[5/14/2025, 12:29:16 PM] File file-1747205952930.txt moved to Completed folder
+[5/14/2025, 12:29:16 PM] File file-1747205955932.txt moved to In-Progress
+[5/14/2025, 12:29:17 PM] File file-1747205955932.txt moved to Completed folder
+[5/14/2025, 12:29:18 PM] Created new file: file-1747205958932.txt
+[5/14/2025, 12:29:19 PM] File file-1747205958932.txt moved to In-Progress
+[5/14/2025, 12:29:21 PM] Created new file: file-1747205961933.txt
+[5/14/2025, 12:29:22 PM] File file-1747205961933.txt moved to In-Progress
+[5/14/2025, 12:29:22 PM] File file-1747205958932.txt moved to Completed folder
+[5/14/2025, 12:29:24 PM] Created new file: file-1747205964934.txt
+[5/14/2025, 12:29:25 PM] File file-1747205964934.txt moved to In-Progress
+[5/14/2025, 12:29:25 PM] File file-1747205961933.txt moved to Completed folder
+[5/14/2025, 12:29:27 PM] File file-1747205964934.txt moved to Completed folder
+[5/14/2025, 12:29:27 PM] Created new file: file-1747205967934.txt
+[5/14/2025, 12:29:28 PM] File file-1747205967934.txt moved to In-Progress
+[5/14/2025, 12:29:30 PM] Created new file: file-1747205970934.txt
+[5/14/2025, 12:29:31 PM] File file-1747205970934.txt moved to In-Progress
+[5/14/2025, 12:29:31 PM] WARNING: file-1747205967934.txt is still in progress after 3 seconds
+[5/14/2025, 12:29:32 PM] File file-1747205967934.txt moved to Completed folder
+[5/14/2025, 12:29:33 PM] Created new file: file-1747205973935.txt
+[5/14/2025, 12:29:34 PM] File file-1747205973935.txt moved to In-Progress
+[5/14/2025, 12:29:34 PM] WARNING: file-1747205970934.txt is still in progress after 3 seconds
+[5/14/2025, 12:29:35 PM] File file-1747205970934.txt moved to Completed folder
+[5/14/2025, 12:29:36 PM] Created new file: file-1747205976936.txt
+[5/14/2025, 12:29:37 PM] File file-1747205976936.txt moved to In-Progress
+[5/14/2025, 12:29:37 PM] File file-1747205973935.txt moved to Completed folder
+[5/14/2025, 12:29:39 PM] Created new file: file-1747205979937.txt
+[5/14/2025, 12:29:40 PM] WARNING: file-1747205976936.txt is still in progress after 3 seconds
+[5/14/2025, 12:29:40 PM] File file-1747205979937.txt moved to In-Progress
+[5/14/2025, 12:29:42 PM] Created new file: file-1747205982938.txt
+[5/14/2025, 12:29:43 PM] ERROR: file-1747205976936.txt crashed (processing time: 6s)
+[5/14/2025, 12:29:43 PM] File file-1747205976936.txt moved to Crashed folder
+[5/14/2025, 12:29:43 PM] File file-1747205982938.txt moved to In-Progress
+[5/14/2025, 12:29:43 PM] WARNING: file-1747205979937.txt is still in progress after 3 seconds
+[5/14/2025, 12:29:45 PM] File file-1747205982938.txt moved to Completed folder
+[5/14/2025, 12:29:45 PM] Created new file: file-1747205985939.txt
+[5/14/2025, 12:29:46 PM] ERROR: file-1747205979937.txt crashed (processing time: 6s)
+[5/14/2025, 12:29:46 PM] File file-1747205979937.txt moved to Crashed folder
+[5/14/2025, 12:29:46 PM] File file-1747205985939.txt moved to In-Progress
+[5/14/2025, 12:29:47 PM] File file-1747205985939.txt moved to Completed folder
+[5/14/2025, 12:29:48 PM] Created new file: file-1747205988939.txt
+[5/14/2025, 12:29:49 PM] File file-1747205988939.txt moved to In-Progress
+[5/14/2025, 12:29:51 PM] Created new file: file-1747205991939.txt
+[5/14/2025, 12:29:52 PM] File file-1747205991939.txt moved to In-Progress
+[5/14/2025, 12:29:52 PM] WARNING: file-1747205988939.txt is still in progress after 3 seconds
+[5/14/2025, 12:29:54 PM] ERROR: file-1747205988939.txt crashed (processing time: 5s)
+[5/14/2025, 12:29:54 PM] File file-1747205988939.txt moved to Crashed folder
+[5/14/2025, 12:29:54 PM] Created new file: file-1747205994939.txt
+[5/14/2025, 12:29:55 PM] WARNING: file-1747205991939.txt is still in progress after 3 seconds
+[5/14/2025, 12:29:55 PM] File file-1747205994939.txt moved to In-Progress
+[5/14/2025, 12:29:56 PM] File file-1747205991939.txt moved to Completed folder
+[5/14/2025, 12:29:57 PM] Created new file: file-1747205997940.txt
+[5/14/2025, 12:29:58 PM] File file-1747205997940.txt moved to In-Progress
+[5/14/2025, 12:29:58 PM] WARNING: file-1747205994939.txt is still in progress after 3 seconds
+[5/14/2025, 12:29:59 PM] File file-1747205994939.txt moved to Completed folder
+[5/14/2025, 12:30:00 PM] File file-1747205997940.txt moved to Completed folder
+[5/14/2025, 12:30:00 PM] Created new file: file-1747206000940.txt
+[5/14/2025, 12:30:01 PM] File file-1747206000940.txt moved to In-Progress
+[5/14/2025, 12:30:03 PM] Created new file: file-1747206003941.txt
+[5/14/2025, 12:30:04 PM] File file-1747206003941.txt moved to In-Progress
+[5/14/2025, 12:30:04 PM] WARNING: file-1747206000940.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:05 PM] File file-1747206000940.txt moved to Completed folder
+[5/14/2025, 12:30:06 PM] Created new file: file-1747206006941.txt
+[5/14/2025, 12:30:07 PM] File file-1747206006941.txt moved to In-Progress
+[5/14/2025, 12:30:07 PM] WARNING: file-1747206003941.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:08 PM] File file-1747206003941.txt moved to Completed folder
+[5/14/2025, 12:30:09 PM] File file-1747206006941.txt moved to Completed folder
+[5/14/2025, 12:30:09 PM] Created new file: file-1747206009941.txt
+[5/14/2025, 12:30:10 PM] File file-1747206009941.txt moved to In-Progress
+[5/14/2025, 12:30:12 PM] Created new file: file-1747206012941.txt
+[5/14/2025, 12:30:13 PM] File file-1747206012941.txt moved to In-Progress
+[5/14/2025, 12:30:13 PM] WARNING: file-1747206009941.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:14 PM] File file-1747206009941.txt moved to Completed folder
+[5/14/2025, 12:30:15 PM] Created new file: file-1747206015941.txt
+[5/14/2025, 12:30:16 PM] File file-1747206015941.txt moved to In-Progress
+[5/14/2025, 12:30:16 PM] WARNING: file-1747206012941.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:17 PM] File file-1747206012941.txt moved to Completed folder
+[5/14/2025, 12:30:18 PM] File file-1747206015941.txt moved to Completed folder
+[5/14/2025, 12:30:18 PM] Created new file: file-1747206018942.txt
+[5/14/2025, 12:30:19 PM] File file-1747206018942.txt moved to In-Progress
+[5/14/2025, 12:30:21 PM] Created new file: file-1747206021942.txt
+[5/14/2025, 12:30:22 PM] File file-1747206021942.txt moved to In-Progress
+[5/14/2025, 12:30:22 PM] WARNING: file-1747206018942.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:24 PM] ERROR: file-1747206018942.txt crashed (processing time: 5s)
+[5/14/2025, 12:30:24 PM] File file-1747206018942.txt moved to Crashed folder
+[5/14/2025, 12:30:24 PM] Created new file: file-1747206024944.txt
+[5/14/2025, 12:30:25 PM] WARNING: file-1747206021942.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:25 PM] File file-1747206024944.txt moved to In-Progress
+[5/14/2025, 12:30:27 PM] ERROR: file-1747206021942.txt crashed (processing time: 5s)
+[5/14/2025, 12:30:27 PM] File file-1747206021942.txt moved to Crashed folder
+[5/14/2025, 12:30:27 PM] Created new file: file-1747206027944.txt
+[5/14/2025, 12:30:28 PM] File file-1747206027944.txt moved to In-Progress
+[5/14/2025, 12:30:28 PM] WARNING: file-1747206024944.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:29 PM] File file-1747206024944.txt moved to Completed folder
+[5/14/2025, 12:30:30 PM] Created new file: file-1747206030944.txt
+[5/14/2025, 12:30:31 PM] File file-1747206030944.txt moved to In-Progress
+[5/14/2025, 12:30:31 PM] File file-1747206027944.txt moved to Completed folder
+[5/14/2025, 12:30:33 PM] Created new file: file-1747206033945.txt
+[5/14/2025, 12:30:34 PM] File file-1747206033945.txt moved to In-Progress
+[5/14/2025, 12:30:34 PM] WARNING: file-1747206030944.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:35 PM] File file-1747206033945.txt moved to Completed folder
+[5/14/2025, 12:30:36 PM] Created new file: file-1747206036946.txt
+[5/14/2025, 12:30:37 PM] ERROR: file-1747206030944.txt crashed (processing time: 6s)
+[5/14/2025, 12:30:37 PM] File file-1747206030944.txt moved to Crashed folder
+[5/14/2025, 12:30:37 PM] File file-1747206036946.txt moved to In-Progress
+[5/14/2025, 12:30:39 PM] Created new file: file-1747206039947.txt
+[5/14/2025, 12:30:40 PM] File file-1747206039947.txt moved to In-Progress
+[5/14/2025, 12:30:40 PM] WARNING: file-1747206036946.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:41 PM] File file-1747206036946.txt moved to Completed folder
+[5/14/2025, 12:30:42 PM] Created new file: file-1747206042949.txt
+[5/14/2025, 12:30:43 PM] File file-1747206042949.txt moved to In-Progress
+[5/14/2025, 12:30:43 PM] WARNING: file-1747206039947.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:45 PM] Created new file: file-1747206045949.txt
+[5/14/2025, 12:30:46 PM] ERROR: file-1747206039947.txt crashed (processing time: 6s)
+[5/14/2025, 12:30:46 PM] File file-1747206039947.txt moved to Crashed folder
+[5/14/2025, 12:30:46 PM] File file-1747206045949.txt moved to In-Progress
+[5/14/2025, 12:30:46 PM] File file-1747206042949.txt moved to Completed folder
+[5/14/2025, 12:30:48 PM] Created new file: file-1747206048949.txt
+[5/14/2025, 12:30:49 PM] File file-1747206048949.txt moved to In-Progress
+[5/14/2025, 12:30:49 PM] WARNING: file-1747206045949.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:50 PM] File file-1747206045949.txt moved to Completed folder
+[5/14/2025, 12:30:51 PM] Created new file: file-1747206051949.txt
+[5/14/2025, 12:30:52 PM] File file-1747206051949.txt moved to In-Progress
+[5/14/2025, 12:30:52 PM] WARNING: file-1747206048949.txt is still in progress after 3 seconds
+[5/14/2025, 12:30:53 PM] File file-1747206048949.txt moved to Completed folder
+[5/14/2025, 12:30:53 PM] File file-1747206051949.txt moved to Completed folder
+[5/14/2025, 12:30:54 PM] Created new file: file-1747206054949.txt
+[5/14/2025, 12:30:55 PM] File file-1747206054949.txt moved to In-Progress
+[5/14/2025, 12:30:57 PM] File file-1747206054949.txt moved to Completed folder
+[5/14/2025, 12:30:57 PM] Created new file: file-1747206057950.txt
+[5/14/2025, 12:30:58 PM] File file-1747206057950.txt moved to In-Progress
+[5/14/2025, 12:31:00 PM] Created new file: file-1747206060949.txt
+[5/14/2025, 12:31:01 PM] File file-1747206060949.txt moved to In-Progress
+[5/14/2025, 12:31:01 PM] WARNING: file-1747206057950.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:02 PM] File file-1747206060949.txt moved to Completed folder
+[5/14/2025, 12:31:02 PM] File file-1747206057950.txt moved to Completed folder
+[5/14/2025, 12:31:03 PM] Created new file: file-1747206063950.txt
+[5/14/2025, 12:31:04 PM] File file-1747206063950.txt moved to In-Progress
+[5/14/2025, 12:31:06 PM] Created new file: file-1747206066950.txt
+[5/14/2025, 12:31:07 PM] File file-1747206066950.txt moved to In-Progress
+[5/14/2025, 12:31:07 PM] File file-1747206063950.txt moved to Completed folder
+[5/14/2025, 12:31:09 PM] Created new file: file-1747206069951.txt
+[5/14/2025, 12:31:10 PM] File file-1747206069951.txt moved to In-Progress
+[5/14/2025, 12:31:10 PM] File file-1747206066950.txt moved to Completed folder
+[5/14/2025, 12:31:12 PM] File file-1747206069951.txt moved to Completed folder
+[5/14/2025, 12:31:12 PM] Created new file: file-1747206072952.txt
+[5/14/2025, 12:31:13 PM] File file-1747206072952.txt moved to In-Progress
+[5/14/2025, 12:31:15 PM] Created new file: file-1747206075953.txt
+[5/14/2025, 12:31:16 PM] File file-1747206075953.txt moved to In-Progress
+[5/14/2025, 12:31:16 PM] WARNING: file-1747206072952.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:18 PM] Created new file: file-1747206078954.txt
+[5/14/2025, 12:31:19 PM] ERROR: file-1747206072952.txt crashed (processing time: 6s)
+[5/14/2025, 12:31:19 PM] File file-1747206072952.txt moved to Crashed folder
+[5/14/2025, 12:31:19 PM] File file-1747206078954.txt moved to In-Progress
+[5/14/2025, 12:31:19 PM] WARNING: file-1747206075953.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:21 PM] ERROR: file-1747206075953.txt crashed (processing time: 5s)
+[5/14/2025, 12:31:21 PM] File file-1747206075953.txt moved to Crashed folder
+[5/14/2025, 12:31:21 PM] File file-1747206078954.txt moved to Completed folder
+[5/14/2025, 12:31:21 PM] Created new file: file-1747206081954.txt
+[5/14/2025, 12:31:22 PM] File file-1747206081954.txt moved to In-Progress
+[5/14/2025, 12:31:24 PM] Created new file: file-1747206084954.txt
+[5/14/2025, 12:31:25 PM] File file-1747206084954.txt moved to In-Progress
+[5/14/2025, 12:31:25 PM] WARNING: file-1747206081954.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:26 PM] File file-1747206084954.txt moved to Completed folder
+[5/14/2025, 12:31:27 PM] ERROR: file-1747206081954.txt crashed (processing time: 5s)
+[5/14/2025, 12:31:27 PM] File file-1747206081954.txt moved to Crashed folder
+[5/14/2025, 12:31:27 PM] Created new file: file-1747206087955.txt
+[5/14/2025, 12:31:28 PM] File file-1747206087955.txt moved to In-Progress
+[5/14/2025, 12:31:30 PM] Created new file: file-1747206090955.txt
+[5/14/2025, 12:31:31 PM] File file-1747206090955.txt moved to In-Progress
+[5/14/2025, 12:31:31 PM] WARNING: file-1747206087955.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:33 PM] ERROR: file-1747206087955.txt crashed (processing time: 5s)
+[5/14/2025, 12:31:33 PM] File file-1747206087955.txt moved to Crashed folder
+[5/14/2025, 12:31:33 PM] Created new file: file-1747206093956.txt
+[5/14/2025, 12:31:34 PM] File file-1747206093956.txt moved to In-Progress
+[5/14/2025, 12:31:34 PM] WARNING: file-1747206090955.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:36 PM] ERROR: file-1747206090955.txt crashed (processing time: 5s)
+[5/14/2025, 12:31:36 PM] File file-1747206090955.txt moved to Crashed folder
+[5/14/2025, 12:31:36 PM] File file-1747206093956.txt moved to Completed folder
+[5/14/2025, 12:31:36 PM] Created new file: file-1747206096958.txt
+[5/14/2025, 12:31:37 PM] File file-1747206096958.txt moved to In-Progress
+[5/14/2025, 12:31:38 PM] File file-1747206096958.txt moved to Completed folder
+[5/14/2025, 12:31:39 PM] Created new file: file-1747206099958.txt
+[5/14/2025, 12:31:40 PM] File file-1747206099958.txt moved to In-Progress
+[5/14/2025, 12:31:42 PM] Created new file: file-1747206102957.txt
+[5/14/2025, 12:31:43 PM] File file-1747206102957.txt moved to In-Progress
+[5/14/2025, 12:31:43 PM] File file-1747206099958.txt moved to Completed folder
+[5/14/2025, 12:31:44 PM] File file-1747206102957.txt moved to Completed folder
+[5/14/2025, 12:31:45 PM] Created new file: file-1747206105957.txt
+[5/14/2025, 12:31:46 PM] File file-1747206105957.txt moved to In-Progress
+[5/14/2025, 12:31:48 PM] Created new file: file-1747206108957.txt
+[5/14/2025, 12:31:49 PM] File file-1747206108957.txt moved to In-Progress
+[5/14/2025, 12:31:49 PM] WARNING: file-1747206105957.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:50 PM] File file-1747206105957.txt moved to Completed folder
+[5/14/2025, 12:31:51 PM] Created new file: file-1747206111958.txt
+[5/14/2025, 12:31:52 PM] WARNING: file-1747206108957.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:52 PM] File file-1747206111958.txt moved to In-Progress
+[5/14/2025, 12:31:54 PM] File file-1747206111958.txt moved to Completed folder
+[5/14/2025, 12:31:54 PM] Created new file: file-1747206114960.txt
+[5/14/2025, 12:31:55 PM] ERROR: file-1747206108957.txt crashed (processing time: 6s)
+[5/14/2025, 12:31:55 PM] File file-1747206108957.txt moved to Crashed folder
+[5/14/2025, 12:31:55 PM] File file-1747206114960.txt moved to In-Progress
+[5/14/2025, 12:31:57 PM] Created new file: file-1747206117961.txt
+[5/14/2025, 12:31:58 PM] WARNING: file-1747206114960.txt is still in progress after 3 seconds
+[5/14/2025, 12:31:58 PM] File file-1747206117961.txt moved to In-Progress
+[5/14/2025, 12:31:59 PM] File file-1747206114960.txt moved to Completed folder
+[5/14/2025, 12:31:59 PM] File file-1747206117961.txt moved to Completed folder
+[5/14/2025, 12:32:00 PM] Created new file: file-1747206120962.txt
+[5/14/2025, 12:32:01 PM] File file-1747206120962.txt moved to In-Progress
+[5/14/2025, 12:32:03 PM] Created new file: file-1747206123962.txt
+[5/14/2025, 12:32:04 PM] File file-1747206123962.txt moved to In-Progress
+[5/14/2025, 12:32:04 PM] WARNING: file-1747206120962.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:06 PM] ERROR: file-1747206120962.txt crashed (processing time: 5s)
+[5/14/2025, 12:32:06 PM] File file-1747206120962.txt moved to Crashed folder
+[5/14/2025, 12:32:06 PM] Created new file: file-1747206126962.txt
+[5/14/2025, 12:32:07 PM] File file-1747206126962.txt moved to In-Progress
+[5/14/2025, 12:32:07 PM] File file-1747206123962.txt moved to Completed folder
+[5/14/2025, 12:32:09 PM] Created new file: file-1747206129962.txt
+[5/14/2025, 12:32:10 PM] File file-1747206129962.txt moved to In-Progress
+[5/14/2025, 12:32:10 PM] WARNING: file-1747206126962.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:11 PM] File file-1747206126962.txt moved to Completed folder
+[5/14/2025, 12:32:12 PM] Created new file: file-1747206132962.txt
+[5/14/2025, 12:32:13 PM] File file-1747206132962.txt moved to In-Progress
+[5/14/2025, 12:32:13 PM] WARNING: file-1747206129962.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:15 PM] ERROR: file-1747206129962.txt crashed (processing time: 5s)
+[5/14/2025, 12:32:15 PM] File file-1747206129962.txt moved to Crashed folder
+[5/14/2025, 12:32:15 PM] Created new file: file-1747206135963.txt
+[5/14/2025, 12:32:16 PM] File file-1747206135963.txt moved to In-Progress
+[5/14/2025, 12:32:16 PM] WARNING: file-1747206132962.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:18 PM] ERROR: file-1747206132962.txt crashed (processing time: 5s)
+[5/14/2025, 12:32:18 PM] File file-1747206132962.txt moved to Crashed folder
+[5/14/2025, 12:32:18 PM] Created new file: file-1747206138963.txt
+[5/14/2025, 12:32:19 PM] File file-1747206138963.txt moved to In-Progress
+[5/14/2025, 12:32:19 PM] WARNING: file-1747206135963.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:20 PM] File file-1747206135963.txt moved to Completed folder
+[5/14/2025, 12:32:21 PM] Created new file: file-1747206141963.txt
+[5/14/2025, 12:32:22 PM] File file-1747206141963.txt moved to In-Progress
+[5/14/2025, 12:32:22 PM] WARNING: file-1747206138963.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:24 PM] Created new file: file-1747206144963.txt
+[5/14/2025, 12:32:25 PM] File file-1747206144963.txt moved to In-Progress
+[5/14/2025, 12:32:25 PM] ERROR: file-1747206138963.txt crashed (processing time: 6s)
+[5/14/2025, 12:32:25 PM] File file-1747206138963.txt moved to Crashed folder
+[5/14/2025, 12:32:25 PM] WARNING: file-1747206141963.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:27 PM] File file-1747206144963.txt moved to Completed folder
+[5/14/2025, 12:32:27 PM] Created new file: file-1747206147964.txt
+[5/14/2025, 12:32:28 PM] File file-1747206147964.txt moved to In-Progress
+[5/14/2025, 12:32:28 PM] ERROR: file-1747206141963.txt crashed (processing time: 6s)
+[5/14/2025, 12:32:28 PM] File file-1747206141963.txt moved to Crashed folder
+[5/14/2025, 12:32:30 PM] Created new file: file-1747206150965.txt
+[5/14/2025, 12:32:31 PM] File file-1747206150965.txt moved to In-Progress
+[5/14/2025, 12:32:31 PM] WARNING: file-1747206147964.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:33 PM] Created new file: file-1747206153965.txt
+[5/14/2025, 12:32:34 PM] File file-1747206153965.txt moved to In-Progress
+[5/14/2025, 12:32:34 PM] ERROR: file-1747206147964.txt crashed (processing time: 6s)
+[5/14/2025, 12:32:34 PM] File file-1747206147964.txt moved to Crashed folder
+[5/14/2025, 12:32:34 PM] WARNING: file-1747206150965.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:36 PM] Created new file: file-1747206156965.txt
+[5/14/2025, 12:32:37 PM] File file-1747206156965.txt moved to In-Progress
+[5/14/2025, 12:32:37 PM] WARNING: file-1747206153965.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:37 PM] ERROR: file-1747206150965.txt crashed (processing time: 6s)
+[5/14/2025, 12:32:37 PM] File file-1747206150965.txt moved to Crashed folder
+[5/14/2025, 12:32:38 PM] File file-1747206153965.txt moved to Completed folder
+[5/14/2025, 12:32:39 PM] Created new file: file-1747206159964.txt
+[5/14/2025, 12:32:40 PM] File file-1747206159964.txt moved to In-Progress
+[5/14/2025, 12:32:40 PM] WARNING: file-1747206156965.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:42 PM] Created new file: file-1747206162966.txt
+[5/14/2025, 12:32:43 PM] ERROR: file-1747206156965.txt crashed (processing time: 6s)
+[5/14/2025, 12:32:43 PM] File file-1747206156965.txt moved to Crashed folder
+[5/14/2025, 12:32:43 PM] File file-1747206162966.txt moved to In-Progress
+[5/14/2025, 12:32:43 PM] WARNING: file-1747206159964.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:44 PM] File file-1747206159964.txt moved to Completed folder
+[5/14/2025, 12:32:45 PM] Created new file: file-1747206165967.txt
+[5/14/2025, 12:32:46 PM] File file-1747206165967.txt moved to In-Progress
+[5/14/2025, 12:32:46 PM] WARNING: file-1747206162966.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:48 PM] File file-1747206165967.txt moved to Completed folder
+[5/14/2025, 12:32:48 PM] Created new file: file-1747206168968.txt
+[5/14/2025, 12:32:49 PM] ERROR: file-1747206162966.txt crashed (processing time: 6s)
+[5/14/2025, 12:32:49 PM] File file-1747206162966.txt moved to Crashed folder
+[5/14/2025, 12:32:49 PM] File file-1747206168968.txt moved to In-Progress
+[5/14/2025, 12:32:51 PM] Created new file: file-1747206171968.txt
+[5/14/2025, 12:32:52 PM] File file-1747206171968.txt moved to In-Progress
+[5/14/2025, 12:32:52 PM] WARNING: file-1747206168968.txt is still in progress after 3 seconds
+[5/14/2025, 12:32:54 PM] Created new file: file-1747206174969.txt
+[5/14/2025, 12:32:55 PM] ERROR: file-1747206168968.txt crashed (processing time: 6s)
+[5/14/2025, 12:32:55 PM] File file-1747206168968.txt moved to Crashed folder
+[5/14/2025, 12:32:55 PM] File file-1747206171968.txt moved to Completed folder
+[5/14/2025, 12:32:55 PM] File file-1747206174969.txt moved to In-Progress
+[5/14/2025, 12:32:57 PM] Created new file: file-1747206177970.txt
+[5/14/2025, 12:32:58 PM] File file-1747206177970.txt moved to In-Progress
+[5/14/2025, 12:32:58 PM] WARNING: file-1747206174969.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:00 PM] Created new file: file-1747206180972.txt
+[5/14/2025, 12:33:01 PM] File file-1747206180972.txt moved to In-Progress
+[5/14/2025, 12:33:01 PM] WARNING: file-1747206177970.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:01 PM] ERROR: file-1747206174969.txt crashed (processing time: 6s)
+[5/14/2025, 12:33:01 PM] File file-1747206174969.txt moved to Crashed folder
+[5/14/2025, 12:33:03 PM] ERROR: file-1747206177970.txt crashed (processing time: 5s)
+[5/14/2025, 12:33:03 PM] File file-1747206177970.txt moved to Crashed folder
+[5/14/2025, 12:33:03 PM] Created new file: file-1747206183972.txt
+[5/14/2025, 12:33:04 PM] File file-1747206183972.txt moved to In-Progress
+[5/14/2025, 12:33:04 PM] WARNING: file-1747206180972.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:06 PM] File file-1747206183972.txt moved to Completed folder
+[5/14/2025, 12:33:06 PM] Created new file: file-1747206186973.txt
+[5/14/2025, 12:33:07 PM] ERROR: file-1747206180972.txt crashed (processing time: 6s)
+[5/14/2025, 12:33:07 PM] File file-1747206180972.txt moved to Crashed folder
+[5/14/2025, 12:33:07 PM] File file-1747206186973.txt moved to In-Progress
+[5/14/2025, 12:33:09 PM] Created new file: file-1747206189974.txt
+[5/14/2025, 12:33:10 PM] File file-1747206189974.txt moved to In-Progress
+[5/14/2025, 12:33:10 PM] File file-1747206186973.txt moved to Completed folder
+[5/14/2025, 12:33:12 PM] Created new file: file-1747206192974.txt
+[5/14/2025, 12:33:13 PM] File file-1747206192974.txt moved to In-Progress
+[5/14/2025, 12:33:13 PM] WARNING: file-1747206189974.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:14 PM] File file-1747206189974.txt moved to Completed folder
+[5/14/2025, 12:33:15 PM] Created new file: file-1747206195975.txt
+[5/14/2025, 12:33:16 PM] File file-1747206195975.txt moved to In-Progress
+[5/14/2025, 12:33:16 PM] File file-1747206192974.txt moved to Completed folder
+[5/14/2025, 12:33:18 PM] Created new file: file-1747206198974.txt
+[5/14/2025, 12:33:19 PM] File file-1747206198974.txt moved to In-Progress
+[5/14/2025, 12:33:19 PM] WARNING: file-1747206195975.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:20 PM] File file-1747206198974.txt moved to Completed folder
+[5/14/2025, 12:33:20 PM] File file-1747206195975.txt moved to Completed folder
+[5/14/2025, 12:33:21 PM] Created new file: file-1747206201975.txt
+[5/14/2025, 12:33:22 PM] File file-1747206201975.txt moved to In-Progress
+[5/14/2025, 12:33:24 PM] Created new file: file-1747206204976.txt
+[5/14/2025, 12:33:25 PM] File file-1747206204976.txt moved to In-Progress
+[5/14/2025, 12:33:25 PM] File file-1747206201975.txt moved to Completed folder
+[5/14/2025, 12:33:27 PM] Created new file: file-1747206207976.txt
+[5/14/2025, 12:33:28 PM] File file-1747206207976.txt moved to In-Progress
+[5/14/2025, 12:33:28 PM] WARNING: file-1747206204976.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:30 PM] Created new file: file-1747206210977.txt
+[5/14/2025, 12:33:31 PM] ERROR: file-1747206204976.txt crashed (processing time: 6s)
+[5/14/2025, 12:33:31 PM] File file-1747206204976.txt moved to Crashed folder
+[5/14/2025, 12:33:31 PM] File file-1747206210977.txt moved to In-Progress
+[5/14/2025, 12:33:31 PM] WARNING: file-1747206207976.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:33 PM] Created new file: file-1747206213979.txt
+[5/14/2025, 12:33:34 PM] ERROR: file-1747206207976.txt crashed (processing time: 6s)
+[5/14/2025, 12:33:34 PM] File file-1747206207976.txt moved to Crashed folder
+[5/14/2025, 12:33:34 PM] File file-1747206213979.txt moved to In-Progress
+[5/14/2025, 12:33:34 PM] WARNING: file-1747206210977.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:35 PM] File file-1747206213979.txt moved to Completed folder
+[5/14/2025, 12:33:35 PM] File file-1747206210977.txt moved to Completed folder
+[5/14/2025, 12:33:36 PM] Created new file: file-1747206216980.txt
+[5/14/2025, 12:33:37 PM] File file-1747206216980.txt moved to In-Progress
+[5/14/2025, 12:33:39 PM] Created new file: file-1747206219981.txt
+[5/14/2025, 12:33:40 PM] File file-1747206219981.txt moved to In-Progress
+[5/14/2025, 12:33:40 PM] WARNING: file-1747206216980.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:42 PM] Created new file: file-1747206222983.txt
+[5/14/2025, 12:33:43 PM] ERROR: file-1747206216980.txt crashed (processing time: 6s)
+[5/14/2025, 12:33:43 PM] File file-1747206216980.txt moved to Crashed folder
+[5/14/2025, 12:33:43 PM] WARNING: file-1747206219981.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:43 PM] File file-1747206222983.txt moved to In-Progress
+[5/14/2025, 12:33:44 PM] File file-1747206219981.txt moved to Completed folder
+[5/14/2025, 12:33:45 PM] Created new file: file-1747206225984.txt
+[5/14/2025, 12:33:46 PM] File file-1747206225984.txt moved to In-Progress
+[5/14/2025, 12:33:46 PM] WARNING: file-1747206222983.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:48 PM] Created new file: file-1747206228984.txt
+[5/14/2025, 12:33:49 PM] ERROR: file-1747206222983.txt crashed (processing time: 6s)
+[5/14/2025, 12:33:49 PM] File file-1747206222983.txt moved to Crashed folder
+[5/14/2025, 12:33:49 PM] File file-1747206228984.txt moved to In-Progress
+[5/14/2025, 12:33:49 PM] WARNING: file-1747206225984.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:50 PM] File file-1747206225984.txt moved to Completed folder
+[5/14/2025, 12:33:50 PM] File file-1747206228984.txt moved to Completed folder
+[5/14/2025, 12:33:51 PM] Created new file: file-1747206231984.txt
+[5/14/2025, 12:33:52 PM] File file-1747206231984.txt moved to In-Progress
+[5/14/2025, 12:33:54 PM] Created new file: file-1747206234985.txt
+[5/14/2025, 12:33:55 PM] File file-1747206234985.txt moved to In-Progress
+[5/14/2025, 12:33:55 PM] WARNING: file-1747206231984.txt is still in progress after 3 seconds
+[5/14/2025, 12:33:57 PM] File file-1747206234985.txt moved to Completed folder
+[5/14/2025, 12:33:57 PM] Created new file: file-1747206237985.txt
+[5/14/2025, 12:33:58 PM] ERROR: file-1747206231984.txt crashed (processing time: 6s)
+[5/14/2025, 12:33:58 PM] File file-1747206231984.txt moved to Crashed folder
+[5/14/2025, 12:33:58 PM] File file-1747206237985.txt moved to In-Progress
+[5/14/2025, 12:34:00 PM] Created new file: file-1747206240986.txt
+[5/14/2025, 12:34:01 PM] File file-1747206240986.txt moved to In-Progress
+[5/14/2025, 12:34:01 PM] WARNING: file-1747206237985.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:03 PM] ERROR: file-1747206237985.txt crashed (processing time: 5s)
+[5/14/2025, 12:34:03 PM] File file-1747206237985.txt moved to Crashed folder
+[5/14/2025, 12:34:03 PM] Created new file: file-1747206243986.txt
+[5/14/2025, 12:34:04 PM] File file-1747206243986.txt moved to In-Progress
+[5/14/2025, 12:34:04 PM] WARNING: file-1747206240986.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:06 PM] ERROR: file-1747206240986.txt crashed (processing time: 5s)
+[5/14/2025, 12:34:06 PM] File file-1747206240986.txt moved to Crashed folder
+[5/14/2025, 12:34:06 PM] Created new file: file-1747206246986.txt
+[5/14/2025, 12:34:07 PM] File file-1747206246986.txt moved to In-Progress
+[5/14/2025, 12:34:07 PM] WARNING: file-1747206243986.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:08 PM] File file-1747206246986.txt moved to Completed folder
+[5/14/2025, 12:34:09 PM] ERROR: file-1747206243986.txt crashed (processing time: 5s)
+[5/14/2025, 12:34:09 PM] File file-1747206243986.txt moved to Crashed folder
+[5/14/2025, 12:34:09 PM] Created new file: file-1747206249987.txt
+[5/14/2025, 12:34:10 PM] File file-1747206249987.txt moved to In-Progress
+[5/14/2025, 12:34:11 PM] File file-1747206249987.txt moved to Completed folder
+[5/14/2025, 12:34:12 PM] Created new file: file-1747206252988.txt
+[5/14/2025, 12:34:13 PM] File file-1747206252988.txt moved to In-Progress
+[5/14/2025, 12:34:14 PM] File file-1747206252988.txt moved to Completed folder
+[5/14/2025, 12:34:15 PM] Created new file: file-1747206255988.txt
+[5/14/2025, 12:34:16 PM] File file-1747206255988.txt moved to In-Progress
+[5/14/2025, 12:34:18 PM] Created new file: file-1747206258988.txt
+[5/14/2025, 12:34:19 PM] File file-1747206258988.txt moved to In-Progress
+[5/14/2025, 12:34:19 PM] WARNING: file-1747206255988.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:21 PM] Created new file: file-1747206261989.txt
+[5/14/2025, 12:34:22 PM] ERROR: file-1747206255988.txt crashed (processing time: 6s)
+[5/14/2025, 12:34:22 PM] File file-1747206255988.txt moved to Crashed folder
+[5/14/2025, 12:34:22 PM] File file-1747206261989.txt moved to In-Progress
+[5/14/2025, 12:34:22 PM] WARNING: file-1747206258988.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:24 PM] ERROR: file-1747206258988.txt crashed (processing time: 5s)
+[5/14/2025, 12:34:24 PM] File file-1747206258988.txt moved to Crashed folder
+[5/14/2025, 12:34:24 PM] Created new file: file-1747206264989.txt
+[5/14/2025, 12:34:25 PM] File file-1747206264989.txt moved to In-Progress
+[5/14/2025, 12:34:25 PM] WARNING: file-1747206261989.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:27 PM] Created new file: file-1747206267990.txt
+[5/14/2025, 12:34:28 PM] ERROR: file-1747206261989.txt crashed (processing time: 6s)
+[5/14/2025, 12:34:28 PM] File file-1747206261989.txt moved to Crashed folder
+[5/14/2025, 12:34:28 PM] WARNING: file-1747206264989.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:28 PM] File file-1747206267990.txt moved to In-Progress
+[5/14/2025, 12:34:30 PM] ERROR: file-1747206264989.txt crashed (processing time: 5s)
+[5/14/2025, 12:34:30 PM] File file-1747206264989.txt moved to Crashed folder
+[5/14/2025, 12:34:30 PM] Created new file: file-1747206270990.txt
+[5/14/2025, 12:34:31 PM] File file-1747206270990.txt moved to In-Progress
+[5/14/2025, 12:34:31 PM] File file-1747206267990.txt moved to Completed folder
+[5/14/2025, 12:34:32 PM] Created new file: file-1747206272955.txt
+[5/14/2025, 12:34:33 PM] Created new file: file-1747206273991.txt
+[5/14/2025, 12:34:34 PM] File file-1747206273991.txt moved to In-Progress
+[5/14/2025, 12:34:34 PM] WARNING: file-1747206270990.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:35 PM] File file-1747206270990.txt moved to Completed folder
+[5/14/2025, 12:34:35 PM] File file-1747206273991.txt moved to Completed folder
+[5/14/2025, 12:34:36 PM] Created new file: file-1747206276992.txt
+[5/14/2025, 12:34:37 PM] File file-1747206276992.txt moved to In-Progress
+[5/14/2025, 12:34:37 PM] Created new file: file-1747206277956.txt
+[5/14/2025, 12:34:39 PM] File file-1747206276992.txt moved to Completed folder
+[5/14/2025, 12:34:39 PM] Created new file: file-1747206279993.txt
+[5/14/2025, 12:34:40 PM] File file-1747206279993.txt moved to In-Progress
+[5/14/2025, 12:34:42 PM] File file-1747206279993.txt moved to Completed folder
+[5/14/2025, 12:34:42 PM] Created new file: file-1747206282956.txt
+[5/14/2025, 12:34:42 PM] Created new file: file-1747206282994.txt
+[5/14/2025, 12:34:43 PM] File file-1747206282994.txt moved to In-Progress
+[5/14/2025, 12:34:45 PM] Created new file: file-1747206285995.txt
+[5/14/2025, 12:34:46 PM] File file-1747206285995.txt moved to In-Progress
+[5/14/2025, 12:34:46 PM] File file-1747206282994.txt moved to Completed folder
+[5/14/2025, 12:34:47 PM] Created new file: file-1747206287957.txt
+[5/14/2025, 12:34:48 PM] Created new file: file-1747206288995.txt
+[5/14/2025, 12:34:49 PM] File file-1747206288995.txt moved to In-Progress
+[5/14/2025, 12:34:49 PM] WARNING: file-1747206285995.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:51 PM] ERROR: file-1747206285995.txt crashed (processing time: 5s)
+[5/14/2025, 12:34:51 PM] File file-1747206285995.txt moved to Crashed folder
+[5/14/2025, 12:34:51 PM] Created new file: file-1747206291995.txt
+[5/14/2025, 12:34:52 PM] File file-1747206291995.txt moved to In-Progress
+[5/14/2025, 12:34:52 PM] File file-1747206288995.txt moved to Completed folder
+[5/14/2025, 12:34:52 PM] Created new file: file-1747206292957.txt
+[5/14/2025, 12:34:54 PM] Created new file: file-1747206294995.txt
+[5/14/2025, 12:34:55 PM] File file-1747206294995.txt moved to In-Progress
+[5/14/2025, 12:34:55 PM] WARNING: file-1747206291995.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:56 PM] File file-1747206291995.txt moved to Completed folder
+[5/14/2025, 12:34:57 PM] Created new file: file-1747206297957.txt
+[5/14/2025, 12:34:57 PM] Created new file: file-1747206297997.txt
+[5/14/2025, 12:34:58 PM] File file-1747206297997.txt moved to In-Progress
+[5/14/2025, 12:34:58 PM] WARNING: file-1747206294995.txt is still in progress after 3 seconds
+[5/14/2025, 12:34:59 PM] File file-1747206294995.txt moved to Completed folder
+[5/14/2025, 12:35:00 PM] Created new file: file-1747206300998.txt
+[5/14/2025, 12:35:01 PM] File file-1747206300998.txt moved to In-Progress
+[5/14/2025, 12:35:01 PM] File file-1747206297997.txt moved to Completed folder
+[5/14/2025, 12:35:02 PM] File file-1747206300998.txt moved to Completed folder
+[5/14/2025, 12:35:02 PM] Created new file: file-1747206302957.txt
+[5/14/2025, 12:35:03 PM] Created new file: file-1747206303998.txt
+[5/14/2025, 12:35:04 PM] File file-1747206303998.txt moved to In-Progress
+[5/14/2025, 12:35:06 PM] Created new file: file-1747206306998.txt
+[5/14/2025, 12:35:07 PM] File file-1747206306998.txt moved to In-Progress
+[5/14/2025, 12:35:07 PM] WARNING: file-1747206303998.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:07 PM] Created new file: file-1747206307958.txt
+[5/14/2025, 12:35:09 PM] ERROR: file-1747206303998.txt crashed (processing time: 5s)
+[5/14/2025, 12:35:09 PM] File file-1747206303998.txt moved to Crashed folder
+[5/14/2025, 12:35:09 PM] File file-1747206306998.txt moved to Completed folder
+[5/14/2025, 12:35:09 PM] Created new file: file-1747206309998.txt
+[5/14/2025, 12:35:10 PM] File file-1747206309998.txt moved to In-Progress
+[5/14/2025, 12:35:12 PM] Created new file: file-1747206312959.txt
+[5/14/2025, 12:35:12 PM] Created new file: file-1747206312999.txt
+[5/14/2025, 12:35:13 PM] WARNING: file-1747206309998.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:13 PM] File file-1747206312999.txt moved to In-Progress
+[5/14/2025, 12:35:15 PM] ERROR: file-1747206309998.txt crashed (processing time: 5s)
+[5/14/2025, 12:35:15 PM] File file-1747206309998.txt moved to Crashed folder
+[5/14/2025, 12:35:16 PM] Created new file: file-1747206316000.txt
+[5/14/2025, 12:35:16 PM] WARNING: file-1747206312999.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:16 PM] File file-1747206316000.txt moved to In-Progress
+[5/14/2025, 12:35:17 PM] Created new file: file-1747206317960.txt
+[5/14/2025, 12:35:17 PM] Max limit reached. Stopping process.
+[5/14/2025, 12:35:19 PM] Created new file: file-1747206319001.txt
+[5/14/2025, 12:35:19 PM] ERROR: file-1747206312999.txt crashed (processing time: 6s)
+[5/14/2025, 12:35:19 PM] File file-1747206312999.txt moved to Crashed folder
+[5/14/2025, 12:35:19 PM] File file-1747206319001.txt moved to In-Progress
+[5/14/2025, 12:35:19 PM] WARNING: file-1747206316000.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:20 PM] File file-1747206316000.txt moved to Completed folder
+[5/14/2025, 12:35:22 PM] Created new file: file-1747206322002.txt
+[5/14/2025, 12:35:22 PM] File file-1747206322002.txt moved to In-Progress
+[5/14/2025, 12:35:22 PM] WARNING: file-1747206319001.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:24 PM] ERROR: file-1747206319001.txt crashed (processing time: 5s)
+[5/14/2025, 12:35:24 PM] File file-1747206319001.txt moved to Crashed folder
+[5/14/2025, 12:35:25 PM] Created new file: file-1747206325002.txt
+[5/14/2025, 12:35:25 PM] File file-1747206325002.txt moved to In-Progress
+[5/14/2025, 12:35:25 PM] WARNING: file-1747206322002.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:26 PM] File file-1747206325002.txt moved to Completed folder
+[5/14/2025, 12:35:28 PM] Created new file: file-1747206328003.txt
+[5/14/2025, 12:35:28 PM] ERROR: file-1747206322002.txt crashed (processing time: 6s)
+[5/14/2025, 12:35:28 PM] File file-1747206322002.txt moved to Crashed folder
+[5/14/2025, 12:35:28 PM] File file-1747206328003.txt moved to In-Progress
+[5/14/2025, 12:35:29 PM] File file-1747206328003.txt moved to Completed folder
+[5/14/2025, 12:35:31 PM] Created new file: file-1747206331003.txt
+[5/14/2025, 12:35:31 PM] File file-1747206331003.txt moved to In-Progress
+[5/14/2025, 12:35:33 PM] File file-1747206331003.txt moved to Completed folder
+[5/14/2025, 12:35:34 PM] Created new file: file-1747206334004.txt
+[5/14/2025, 12:35:34 PM] File file-1747206334004.txt moved to In-Progress
+[5/14/2025, 12:35:37 PM] Created new file: file-1747206337006.txt
+[5/14/2025, 12:35:37 PM] File file-1747206337006.txt moved to In-Progress
+[5/14/2025, 12:35:37 PM] WARNING: file-1747206334004.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:38 PM] File file-1747206334004.txt moved to Completed folder
+[5/14/2025, 12:35:40 PM] Created new file: file-1747206340006.txt
+[5/14/2025, 12:35:40 PM] File file-1747206340006.txt moved to In-Progress
+[5/14/2025, 12:35:40 PM] File file-1747206337006.txt moved to Completed folder
+[5/14/2025, 12:35:43 PM] Created new file: file-1747206343007.txt
+[5/14/2025, 12:35:43 PM] WARNING: file-1747206340006.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:43 PM] File file-1747206343007.txt moved to In-Progress
+[5/14/2025, 12:35:44 PM] File file-1747206340006.txt moved to Completed folder
+[5/14/2025, 12:35:44 PM] File file-1747206343007.txt moved to Completed folder
+[5/14/2025, 12:35:46 PM] Created new file: file-1747206346007.txt
+[5/14/2025, 12:35:46 PM] File file-1747206346007.txt moved to In-Progress
+[5/14/2025, 12:35:47 PM] File file-1747206346007.txt moved to Completed folder
+[5/14/2025, 12:35:49 PM] Created new file: file-1747206349008.txt
+[5/14/2025, 12:35:49 PM] File file-1747206349008.txt moved to In-Progress
+[5/14/2025, 12:35:52 PM] Created new file: file-1747206352010.txt
+[5/14/2025, 12:35:52 PM] WARNING: file-1747206349008.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:52 PM] File file-1747206352010.txt moved to In-Progress
+[5/14/2025, 12:35:54 PM] ERROR: file-1747206349008.txt crashed (processing time: 5s)
+[5/14/2025, 12:35:54 PM] File file-1747206349008.txt moved to Crashed folder
+[5/14/2025, 12:35:55 PM] Created new file: file-1747206355010.txt
+[5/14/2025, 12:35:55 PM] File file-1747206355010.txt moved to In-Progress
+[5/14/2025, 12:35:55 PM] WARNING: file-1747206352010.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:58 PM] Created new file: file-1747206358011.txt
+[5/14/2025, 12:35:58 PM] ERROR: file-1747206352010.txt crashed (processing time: 6s)
+[5/14/2025, 12:35:58 PM] File file-1747206352010.txt moved to Crashed folder
+[5/14/2025, 12:35:58 PM] File file-1747206358011.txt moved to In-Progress
+[5/14/2025, 12:35:58 PM] WARNING: file-1747206355010.txt is still in progress after 3 seconds
+[5/14/2025, 12:35:59 PM] File file-1747206355010.txt moved to Completed folder
+[5/14/2025, 12:36:01 PM] Created new file: file-1747206361012.txt
+[5/14/2025, 12:36:01 PM] File file-1747206361012.txt moved to In-Progress
+[5/14/2025, 12:36:01 PM] File file-1747206358011.txt moved to Completed folder
+[5/14/2025, 12:36:04 PM] Created new file: file-1747206364012.txt
+[5/14/2025, 12:36:04 PM] File file-1747206364012.txt moved to In-Progress
+[5/14/2025, 12:36:04 PM] File file-1747206361012.txt moved to Completed folder
+[5/14/2025, 12:36:07 PM] Created new file: file-1747206367013.txt
+[5/14/2025, 12:36:07 PM] File file-1747206367013.txt moved to In-Progress
+[5/14/2025, 12:36:07 PM] WARNING: file-1747206364012.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:09 PM] ERROR: file-1747206364012.txt crashed (processing time: 5s)
+[5/14/2025, 12:36:09 PM] File file-1747206364012.txt moved to Crashed folder
+[5/14/2025, 12:36:10 PM] Created new file: file-1747206370014.txt
+[5/14/2025, 12:36:10 PM] WARNING: file-1747206367013.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:10 PM] File file-1747206370014.txt moved to In-Progress
+[5/14/2025, 12:36:11 PM] File file-1747206367013.txt moved to Completed folder
+[5/14/2025, 12:36:13 PM] Created new file: file-1747206373015.txt
+[5/14/2025, 12:36:13 PM] File file-1747206373015.txt moved to In-Progress
+[5/14/2025, 12:36:13 PM] WARNING: file-1747206370014.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:16 PM] Created new file: file-1747206376016.txt
+[5/14/2025, 12:36:16 PM] ERROR: file-1747206370014.txt crashed (processing time: 6s)
+[5/14/2025, 12:36:16 PM] File file-1747206370014.txt moved to Crashed folder
+[5/14/2025, 12:36:16 PM] WARNING: file-1747206373015.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:16 PM] File file-1747206376016.txt moved to In-Progress
+[5/14/2025, 12:36:18 PM] ERROR: file-1747206373015.txt crashed (processing time: 5s)
+[5/14/2025, 12:36:18 PM] File file-1747206373015.txt moved to Crashed folder
+[5/14/2025, 12:36:19 PM] Created new file: file-1747206379017.txt
+[5/14/2025, 12:36:19 PM] WARNING: file-1747206376016.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:19 PM] File file-1747206379017.txt moved to In-Progress
+[5/14/2025, 12:36:22 PM] Created new file: file-1747206382018.txt
+[5/14/2025, 12:36:22 PM] ERROR: file-1747206376016.txt crashed (processing time: 6s)
+[5/14/2025, 12:36:22 PM] File file-1747206376016.txt moved to Crashed folder
+[5/14/2025, 12:36:22 PM] File file-1747206382018.txt moved to In-Progress
+[5/14/2025, 12:36:22 PM] WARNING: file-1747206379017.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:23 PM] File file-1747206379017.txt moved to Completed folder
+[5/14/2025, 12:36:25 PM] Created new file: file-1747206385019.txt
+[5/14/2025, 12:36:25 PM] File file-1747206385019.txt moved to In-Progress
+[5/14/2025, 12:36:25 PM] WARNING: file-1747206382018.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:27 PM] ERROR: file-1747206382018.txt crashed (processing time: 5s)
+[5/14/2025, 12:36:27 PM] File file-1747206382018.txt moved to Crashed folder
+[5/14/2025, 12:36:28 PM] Created new file: file-1747206388019.txt
+[5/14/2025, 12:36:28 PM] File file-1747206388019.txt moved to In-Progress
+[5/14/2025, 12:36:28 PM] WARNING: file-1747206385019.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:31 PM] Created new file: file-1747206391034.txt
+[5/14/2025, 12:36:31 PM] ERROR: file-1747206385019.txt crashed (processing time: 6s)
+[5/14/2025, 12:36:31 PM] File file-1747206385019.txt moved to Crashed folder
+[5/14/2025, 12:36:31 PM] WARNING: file-1747206388019.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:31 PM] File file-1747206391034.txt moved to In-Progress
+[5/14/2025, 12:36:33 PM] ERROR: file-1747206388019.txt crashed (processing time: 5s)
+[5/14/2025, 12:36:33 PM] File file-1747206388019.txt moved to Crashed folder
+[5/14/2025, 12:36:34 PM] Created new file: file-1747206394034.txt
+[5/14/2025, 12:36:34 PM] File file-1747206394034.txt moved to In-Progress
+[5/14/2025, 12:36:34 PM] WARNING: file-1747206391034.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:36 PM] ERROR: file-1747206391034.txt crashed (processing time: 5s)
+[5/14/2025, 12:36:36 PM] File file-1747206391034.txt moved to Crashed folder
+[5/14/2025, 12:36:37 PM] Created new file: file-1747206397034.txt
+[5/14/2025, 12:36:37 PM] File file-1747206397034.txt moved to In-Progress
+[5/14/2025, 12:36:37 PM] WARNING: file-1747206394034.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:38 PM] File file-1747206394034.txt moved to Completed folder
+[5/14/2025, 12:36:39 PM] File file-1747206397034.txt moved to Completed folder
+[5/14/2025, 12:36:40 PM] Created new file: file-1747206400034.txt
+[5/14/2025, 12:36:40 PM] File file-1747206400034.txt moved to In-Progress
+[5/14/2025, 12:36:43 PM] Created new file: file-1747206403034.txt
+[5/14/2025, 12:36:43 PM] File file-1747206403034.txt moved to In-Progress
+[5/14/2025, 12:36:43 PM] WARNING: file-1747206400034.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:44 PM] File file-1747206400034.txt moved to Completed folder
+[5/14/2025, 12:36:45 PM] File file-1747206403034.txt moved to Completed folder
+[5/14/2025, 12:36:46 PM] Created new file: file-1747206406037.txt
+[5/14/2025, 12:36:46 PM] File file-1747206406037.txt moved to In-Progress
+[5/14/2025, 12:36:48 PM] File file-1747206406037.txt moved to Completed folder
+[5/14/2025, 12:36:49 PM] Created new file: file-1747206409039.txt
+[5/14/2025, 12:36:49 PM] File file-1747206409039.txt moved to In-Progress
+[5/14/2025, 12:36:52 PM] Created new file: file-1747206412039.txt
+[5/14/2025, 12:36:52 PM] File file-1747206412039.txt moved to In-Progress
+[5/14/2025, 12:36:52 PM] WARNING: file-1747206409039.txt is still in progress after 3 seconds
+[5/14/2025, 12:36:54 PM] File file-1747206412039.txt moved to Completed folder
+[5/14/2025, 12:36:55 PM] Created new file: file-1747206415040.txt
+[5/14/2025, 12:36:55 PM] ERROR: file-1747206409039.txt crashed (processing time: 6s)
+[5/14/2025, 12:36:55 PM] File file-1747206409039.txt moved to Crashed folder
+[5/14/2025, 12:36:55 PM] File file-1747206415040.txt moved to In-Progress
+[5/14/2025, 12:36:58 PM] Created new file: file-1747206418040.txt
+[5/14/2025, 12:36:58 PM] File file-1747206418040.txt moved to In-Progress
+[5/14/2025, 12:36:58 PM] File file-1747206415040.txt moved to Completed folder
+[5/14/2025, 12:37:01 PM] Created new file: file-1747206421039.txt
+[5/14/2025, 12:37:01 PM] File file-1747206421039.txt moved to In-Progress
+[5/14/2025, 12:37:01 PM] WARNING: file-1747206418040.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:04 PM] Created new file: file-1747206424040.txt
+[5/14/2025, 12:37:04 PM] File file-1747206424040.txt moved to In-Progress
+[5/14/2025, 12:37:04 PM] ERROR: file-1747206418040.txt crashed (processing time: 6s)
+[5/14/2025, 12:37:04 PM] File file-1747206418040.txt moved to Crashed folder
+[5/14/2025, 12:37:04 PM] WARNING: file-1747206421039.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:06 PM] ERROR: file-1747206421039.txt crashed (processing time: 5s)
+[5/14/2025, 12:37:06 PM] File file-1747206421039.txt moved to Crashed folder
+[5/14/2025, 12:37:07 PM] Created new file: file-1747206427040.txt
+[5/14/2025, 12:37:07 PM] File file-1747206427040.txt moved to In-Progress
+[5/14/2025, 12:37:07 PM] WARNING: file-1747206424040.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:09 PM] ERROR: file-1747206424040.txt crashed (processing time: 5s)
+[5/14/2025, 12:37:09 PM] File file-1747206424040.txt moved to Crashed folder
+[5/14/2025, 12:37:10 PM] Created new file: file-1747206430041.txt
+[5/14/2025, 12:37:10 PM] File file-1747206430041.txt moved to In-Progress
+[5/14/2025, 12:37:10 PM] WARNING: file-1747206427040.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:12 PM] File file-1747206430041.txt moved to Completed folder
+[5/14/2025, 12:37:13 PM] Created new file: file-1747206433041.txt
+[5/14/2025, 12:37:13 PM] ERROR: file-1747206427040.txt crashed (processing time: 6s)
+[5/14/2025, 12:37:13 PM] File file-1747206427040.txt moved to Crashed folder
+[5/14/2025, 12:37:13 PM] File file-1747206433041.txt moved to In-Progress
+[5/14/2025, 12:37:16 PM] Created new file: file-1747206436041.txt
+[5/14/2025, 12:37:16 PM] File file-1747206436041.txt moved to In-Progress
+[5/14/2025, 12:37:16 PM] WARNING: file-1747206433041.txt is still in progress after 3 seconds
+[5/14/2025, 12:37:17 PM] File file-1747206436041.txt moved to Completed folder
+[5/14/2025, 12:37:17 PM] File file-1747206433041.txt moved to Completed folder
+[5/14/2025, 12:37:19 PM] Created new file: file-1747206439042.txt
